@@ -1,0 +1,14 @@
+layout_spectrum: 0.5483871
+color:
+  saturation: 0.3127967
+  lightness: 0.8062636
+  brandStrength: 0.5448444
+  brandColors:
+    - '#FFFFFF'
+    - '#CEE07A'
+    - '#BCD741'
+    - '#DFEAAA'
+    - '#EEF4D0'
+  rhythmicContrast: 0.6244511
+typography_spectrum: 0.374552
+name: EliteLevelFitness
