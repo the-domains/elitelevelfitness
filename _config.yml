@@ -1,8 +1,20 @@
-layout_spectrum: 0.5483871
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.374552
 color:
   saturation: 0.3127967
+  brandStrength: 0.8835126
   lightness: 0.8062636
-  brandStrength: 0.5448444
   brandColors:
     - '#FFFFFF'
     - '#CEE07A'
@@ -10,5 +22,5 @@ color:
     - '#DFEAAA'
     - '#EEF4D0'
   rhythmicContrast: 0.6244511
-typography_spectrum: 0.374552
+layout_spectrum: 0.5483871
 name: EliteLevelFitness
