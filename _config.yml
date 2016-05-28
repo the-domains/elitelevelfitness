@@ -1,26 +1,32 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
+typography_spectrum: 0.374552
 color:
-  saturation: 1
+  saturation: 0.3127967
   brandStrength: 0.8835126
-  lightness: 0.7437276
+  lightness: 0.8062636
   brandColors:
     - '#FFFFFF'
     - '#CEE07A'
     - '#BCD741'
     - '#DFEAAA'
     - '#EEF4D0'
-  rhythmicContrast: 0.7634408
-typography_spectrum: 0.374552
-layout_spectrum: 0.2455197
-name: EliteLevelFitness
+  rhythmicContrast: 0.6244511
+layout_spectrum: 0.5483871
+author:
+  name: Lauren Hayward
+  email: lauren@elitelevelfitness.com.au
+  url: www.elitelevelfitness.com.au
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cd89b42-d353-4a69-b493-2f9d40e416eb.png'
+name: Elite Level Fitness
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9f45218-3fff-4a08-89b6-e9ee24adc8f4.png'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
