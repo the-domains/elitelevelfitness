@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-28T06:54:34.768Z'
+datePublished: '2016-05-28T06:54:44.290Z'
 sourcePath: _posts/2016-05-28-new-year-start-here-7-day-beginner-trainer.md
 isBasedOnUrl: 'http://www.bodybuilding.com/fun/new-year-start-here-7-day-beginner-trainer.html'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - transforming
 related: []
 author: []
-dateModified: '2016-05-28T06:54:34.327Z'
+dateModified: '2016-05-28T06:54:43.932Z'
 title: 'New Year, Start Here: 7-Day Beginner Trainer'
 app_links:
   - namespace: twitter
@@ -34,7 +34,7 @@ publisher:
   domain: www.bodybuilding.com
 description: 'Fifteen years ago, I walked into a gym for the first time. It was supposed to be a life-changing moment. Just twenty minutes later, I walked out. I tried again a week later, visiting a new facility, and left even sooner. The truth is, I tried many times to begin a fitness program.'
 inLanguage: en
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
