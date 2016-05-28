@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-28T06:54:40.416Z'
+datePublished: '2016-05-28T06:54:42.397Z'
 sourcePath: _posts/2016-05-28-how-wide-should-your-bench-press-grip-be.md
 isBasedOnUrl: 'http://www.bodybuilding.com/fun/how-wide-should-your-bench-press-grip-be'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - weight
 related: []
 author: []
-dateModified: '2016-05-28T06:54:39.728Z'
+dateModified: '2016-05-28T06:54:41.940Z'
 title: How Wide Should Your Bench-Press Grip Be?
 app_links:
   - namespace: twitter
@@ -34,7 +34,7 @@ publisher:
   domain: www.bodybuilding.com
 description: 'You may have never given much thought to how wide apart you place your hands on the bar when benching, but simply moving your hands in and out on the bar has big effects. It can direct the stimulus from your upper to lower pecs, or from the inner to outer pecs.'
 inLanguage: en
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
