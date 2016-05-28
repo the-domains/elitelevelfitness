@@ -2,6 +2,7 @@ author:
   name: ''
   email: ''
   url: ''
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9f45218-3fff-4a08-89b6-e9ee24adc8f4.png'
 collections:
   - index:
       path: /
@@ -16,17 +17,16 @@ collections:
       path: '/:title/'
 logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cd89b42-d353-4a69-b493-2f9d40e416eb.png'
 color:
-  saturation: 0.3942652
+  saturation: 0
   brandStrength: 0
-  lightness: 0.8062636
+  lightness: 1
   brandColors:
     - '#000000'
     - '#B2AEAD'
     - '#8A8780'
     - '#383530'
     - '#DFD8C6'
-  rhythmicContrast: 0.6244511
+  rhythmicContrast: 0
 typography_spectrum: 0.374552
-layout_spectrum: 0.2168459
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9f45218-3fff-4a08-89b6-e9ee24adc8f4.png'
+layout_spectrum: 1
 name: Elite Level Fitness
