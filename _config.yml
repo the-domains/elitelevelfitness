@@ -18,14 +18,14 @@ collections:
 logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cd89b42-d353-4a69-b493-2f9d40e416eb.png'
 color:
   saturation: 0.3942652
-  brandStrength: 0
+  brandStrength: 0.4749104
   lightness: 0.8062636
   brandColors:
-    - '#FFFFFF'
-    - '#CEE07A'
-    - '#BCD741'
-    - '#DFEAAA'
-    - '#EEF4D0'
+    - '#000000'
+    - '#B2AEAD'
+    - '#8A8780'
+    - '#383530'
+    - '#DFD8C6'
   rhythmicContrast: 0.6244511
 typography_spectrum: 0.374552
 layout_spectrum: 0.2168459
