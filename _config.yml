@@ -2,7 +2,7 @@ author:
   name: ''
   email: ''
   url: ''
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9f45218-3fff-4a08-89b6-e9ee24adc8f4.png'
+name: Elite Level Fitness
 collections:
   - index:
       path: /
@@ -28,5 +28,5 @@ color:
     - '#EEF4D0'
   rhythmicContrast: 1
 typography_spectrum: 0.374552
-layout_spectrum: 0.2311828
-name: Elite Level Fitness
+layout_spectrum: 1
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9f45218-3fff-4a08-89b6-e9ee24adc8f4.png'
