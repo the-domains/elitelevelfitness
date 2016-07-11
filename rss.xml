@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Elite Level Fitness]]></title>
         <description><![CDATA[Elite Level Fitness]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://elitelevelfitness.com.au/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 07:48:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jul 2016 07:54:31 GMT</lastBuildDate>
+        <atom:link href="http://elitelevelfitness.com.au/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86723e23-5866-46ef-a92d-7f0f01bef9aa.png">]]></description>
-            <link>undefineded5aed4b-1c5e-4c68-b89b-7714240da803/index.html</link>
+            <link>http://elitelevelfitness.com.au/ed5aed4b-1c5e-4c68-b89b-7714240da803/index.html</link>
             <guid isPermaLink="false">ed5aed4b-1c5e-4c68-b89b-7714240da803</guid>
             <pubDate>Mon, 11 Jul 2016 07:48:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/718a7cf0-32d3-432b-9d1b-c11f545a9bcb.png">]]></description>
+            <link>http://elitelevelfitness.com.au/c4ae41e4-4abc-4353-b70a-fb52b7af43be/index.html</link>
+            <guid isPermaLink="false">c4ae41e4-4abc-4353-b70a-fb52b7af43be</guid>
+            <pubDate>Mon, 11 Jul 2016 07:54:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
