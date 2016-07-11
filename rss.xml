@@ -4,7 +4,7 @@
         <description><![CDATA[Elite Level Fitness]]></description>
         <link>http://elitelevelfitness.com.au/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 08:00:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2016 08:04:16 GMT</lastBuildDate>
         <atom:link href="http://elitelevelfitness.com.au/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,17 +15,17 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e64f31df-2747-40b3-92f3-695541ec761b.png">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e64f31df-2747-40b3-92f3-695541ec761b.png</link>
+            <guid isPermaLink="false">8cd083c0-6ad2-4402-bc75-a0b3e33bbcc2</guid>
+            <pubDate>Mon, 11 Jul 2016 08:04:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/718a7cf0-32d3-432b-9d1b-c11f545a9bcb.png" alt="Visit us on Facebook">]]></description>
             <link>http://elitelevelfitness.com.au/c4ae41e4-4abc-4353-b70a-fb52b7af43be/index.html</link>
             <guid isPermaLink="false">c4ae41e4-4abc-4353-b70a-fb52b7af43be</guid>
             <pubDate>Mon, 11 Jul 2016 08:00:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e64f31df-2747-40b3-92f3-695541ec761b.png">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e64f31df-2747-40b3-92f3-695541ec761b.png</link>
-            <guid isPermaLink="false">8cd083c0-6ad2-4402-bc75-a0b3e33bbcc2</guid>
-            <pubDate>Mon, 11 Jul 2016 07:59:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
