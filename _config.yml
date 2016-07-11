@@ -1,7 +1,27 @@
+typography_spectrum: 0.374552
+color:
+  saturation: 0
+  brandStrength: 0
+  lightness: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#CEE07A'
+    - '#BCD741'
+    - '#DFEAAA'
+    - '#EEF4D0'
+  rhythmicContrast: 1
+layout_spectrum: 0.043341473210603
+analytics:
+  google: UA-80570355-1
 author:
   name: ''
   email: ''
   url: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cd89b42-d353-4a69-b493-2f9d40e416eb.png
+name: Elite Level Fitness
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9f45218-3fff-4a08-89b6-e9ee24adc8f4.png
 collections:
   - index:
       path: /
@@ -14,19 +34,3 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cd89b42-d353-4a69-b493-2f9d40e416eb.png'
-color:
-  saturation: 0
-  brandStrength: 0
-  lightness: 1
-  brandColors:
-    - '#FFFFFF'
-    - '#CEE07A'
-    - '#BCD741'
-    - '#DFEAAA'
-    - '#EEF4D0'
-  rhythmicContrast: 1
-typography_spectrum: 0.374552
-layout_spectrum: 0.043341473210603
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9f45218-3fff-4a08-89b6-e9ee24adc8f4.png'
-name: Elite Level Fitness
